@@ -111,9 +111,6 @@ Explore the list of dependencies that contribute to the seamless functionality o
 
 
 
-### Screen Shots
-For more screen shots [Here](https://github.com/mo7amedaliEbaid/islamic/blob/5236b4010cb4f9b09eeef87f444d11b23e418654/islamic_screenshots)
-
 ##### Portrait
 
 <br />
